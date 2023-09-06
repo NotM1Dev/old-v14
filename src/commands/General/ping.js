@@ -5,7 +5,7 @@ module.exports = {
         .setName("ping")
         .setDescription("Replies with pong!"),
 
-    run: (interaction) => {
+    run: ({ interaction }) => {
         interaction.reply("Pong!");
     }
 }
