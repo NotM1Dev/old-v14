@@ -1,5 +1,4 @@
 const { SlashCommandBuilder, EmbedBuilder, PermissionFlagsBits, parseEmoji } = require("discord.js");
-const { SlashCommandProps } = require("commandkit");
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -18,7 +17,7 @@ module.exports = {
         ),
 
     /**
-     * @param {SlashCommandProps} param0 
+     * @param {import("commandkit").SlashCommandProps} param0 
      */
 
     run: async ({ interaction }) => {
