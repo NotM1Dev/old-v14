@@ -12,7 +12,8 @@ This repository is for the Discord.js v14 series.
 
 ## Dependencies
 - [distube@4.1.0](https://npmjs.com/package/distube)
-- [commandkit@0.1.1](https://npmjs.com/package/commandkit)
+- [mongoose@7.5.2](https://npmjs.com/package/mongoose)
+- [commandkit@0.1.3](https://npmjs.com/package/commandkit)
 - [discord.js@14.13.0](https://npmjs.com/package/discord.js)
 - [ffmpeg-static@5.2.0](https://npmjs.com/package/ffmpeg-static)
 - [libsodium-wrappers@0.7.13](https://npmjs.com/package/libsodium-wrappers)
