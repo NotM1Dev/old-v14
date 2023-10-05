@@ -1,16 +1,21 @@
 # v14
+
 This repository is for the Discord.js v14 series.
 
 ## Links
+
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLIyfGwNKOLhS0oYUT7vKriECviHUk6zD4)
 - [Channel](https://www.youtube.com/channel/UCTG3iSfX-BKLieSA5GlfivQ)
 
 ## Features
+
 - [Advanced command/event handler](https://commandkit.js.org)
-- Useful commands e.g. steal emojis and kick command
-- Full music system
+- Useful utility commands e.g. steal emojis and kick command
+- Full VC music system with /play, /pause, /queue etc.
+- Leveling system (WIP)
 
 ## Dependencies
+
 - [distube@^4.1.0](https://npmjs.com/package/distube)
 - [mongoose@^7.5.2](https://npmjs.com/package/mongoose)
 - [commandkit@^0.1.3](https://npmjs.com/package/commandkit)
