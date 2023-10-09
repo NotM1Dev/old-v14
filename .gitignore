@@ -4,7 +4,6 @@ other/
 
 # Files
 package-lock.json
-.eslintrc.json
 .DS_Store
 *.log
 .log
