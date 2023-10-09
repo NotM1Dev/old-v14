@@ -24,9 +24,10 @@ node .
 
 ## Features
 
-- [Advanced command/event handler](https://commandkit.js.org)
-- Useful utility commands e.g. steal emojis and kick command
-- Full VC music system with /play, /pause, /queue etc.
+- [Advanced command, event, & validation handler](https://commandkit.js.org)
+- Useful utility commands e.g. stealing extraneous emojis and kick command
+- Full voice chat music system with /play, /pause, /queue etc.
+- MongoDB Database integration via mongoose
 - Leveling system (WIP)
 
 ## Dependencies
