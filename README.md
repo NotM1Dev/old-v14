@@ -4,8 +4,22 @@ This repository is for the Discord.js v14 series.
 
 ## Links
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLIyfGwNKOLhS0oYUT7vKriECviHUk6zD4)
+**YouTube:**
+
+- [Playlist](https://www.youtube.com/playlist?list=PLIyfGwNKOLhS0oYUT7vKriECviHUk6zD4)
 - [Channel](https://www.youtube.com/channel/UCTG3iSfX-BKLieSA5GlfivQ)
+
+**Discord:**
+
+- [Server](https://discord.com/invite/amK8sjpp5M)
+
+## Usage
+
+```sh
+git clone https://github.com/m1-dev/v14
+npm install
+node .
+```
 
 ## Features
 
@@ -18,7 +32,7 @@ This repository is for the Discord.js v14 series.
 
 - [distube@^4.1.0](https://npmjs.com/package/distube)
 - [mongoose@^7.5.2](https://npmjs.com/package/mongoose)
-- [commandkit@^0.1.3](https://npmjs.com/package/commandkit)
+- [commandkit@^0.1.6](https://npmjs.com/package/commandkit)
 - [discord.js@^14.13.0](https://npmjs.com/package/discord.js)
 - [ffmpeg-static@^5.2.0](https://npmjs.com/package/ffmpeg-static)
 - [libsodium-wrappers@^0.7.13](https://npmjs.com/package/libsodium-wrappers)
