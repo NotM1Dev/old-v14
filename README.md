@@ -12,6 +12,7 @@ This repository is for the Discord.js v14 series.
 **Discord:**
 
 - [Server](https://discord.com/invite/amK8sjpp5M)
+- [Profile](https://discordapp.com/users/997191161699631104)
 
 ## Usage
 
