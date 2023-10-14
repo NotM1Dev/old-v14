@@ -17,7 +17,6 @@ module.exports = async (message) => {
 
     if (user) {
         user.xp += xpGain;
-        console.log(user);
 
         if (user.xp > xpToLevel(user.level)) {
             user.xp = 0;
