@@ -18,8 +18,8 @@ new CommandKit({
     commandsPath: `${__dirname}/commands`,
     eventsPath: `${__dirname}/events`,
 
-    devGuildIds: ['YOUR_DEV_GUILD_ID'],
-    devUserIds: ['YOUR_USER_ID']
+    devGuildIds: ['1161677195031347280'], // <- Your dev guild id (or multiple for each dev server)
+    devUserIds: ['997191161699631104'] // <- Your user id (and any others on your team)
 });
 
 module.exports = client;
