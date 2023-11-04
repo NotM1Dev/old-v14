@@ -1,3 +1,7 @@
+# Note
+> This repository is outdated!
+> Please see the new one [here](https://github.com/m1-dev/v14)
+
 # v14
 
 This repository is for the discord.js v14 series.
